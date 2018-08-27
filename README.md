@@ -2,8 +2,7 @@
 
 This is the first file in this Repo
 
-## Ipsum Below
+## Web site contents
 
-Some text goes here
-
-Addiotnal text goes here
+README.md
+index.html
