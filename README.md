@@ -4,7 +4,7 @@ This is the first file in this Repo
 
 ## Website contents
 
-Here ar ethe fiels in website
+Here are the files in my website
 
 README.md
 index.html
